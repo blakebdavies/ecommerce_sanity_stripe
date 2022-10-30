@@ -546,17 +546,17 @@ span.text-red {
   color: rgb(49, 168, 49);
 }
 
-.maylike-products-wrapper{
+.recommended-products-wrapper{
   margin-top: 120px;
 }
-.maylike-products-wrapper h2{
+.recommended-products-wrapper h2{
   text-align: center;
   margin: 50px;
   color: var(--secondary-color);
 
   font-size: 28px;
 }
-.maylike-products-container{
+.recommended-products-container{
   display: flex;
   justify-content: center;
   gap: 15px;
