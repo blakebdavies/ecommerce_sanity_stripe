@@ -299,7 +299,7 @@ span.text-red {
   text-align: center;
   margin-top: 20px;
   padding: 30px 10px;
-  font-weight: 700;
+  font-weight: 400;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -307,7 +307,7 @@ span.text-red {
   justify-content: center;
 }
 .footer-container .icons{
-  font-size: 30px;
+  font-size: 20px;
   display: flex;
   gap: 10px;
 }
