@@ -42,7 +42,6 @@ const Cart = () => {
                                 src={urlFor(item?.image[0])}
                                 className="cart-product-image"
                                 alt="product"
-
                             />
                             <div className="item-desc">
                                 <div className="flex top">
@@ -53,10 +52,17 @@ const Cart = () => {
                                     <div>
                                         <p className="quantity-desc">
                                             <span className="minus" onClick=""><AiOutlineMinus/></span>
-                                            <span className="num" onClick="">0</span>
+                                            <span className="num">0</span>
                                             <span className="plus" onClick=""><AiOutlinePlus/></span>
                                         </p>
                                     </div>
+                                    <button
+                                        type="button"
+                                        className="remove-item"
+                                        onClick=""
+                                    >
+                                        <TiDeleteOutline/>
+                                    </button>
                                 </div>
                             </div>
                         </div>
