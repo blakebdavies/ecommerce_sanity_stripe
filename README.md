@@ -2,7 +2,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://ecommerce-kp4gzm93q-blakebdavies.vercel.app/">Click here for live demo</a>
 </p>                                                                                              
  <h2>eCommerce Website using Sanity with Stripe integration</h2>
- <p> This is a Nextjs project that explores modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and most importantly, the complete integration with Stripe so that you can cover real payments.</p>
+ <p> This is a Nextjs project that explores modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and complete integration with Stripe for payment functionality.</p>
  <h2> Technology and Concepts</h2>
  <ul>
   <li>Sanity CMS to manage content of application</li>
