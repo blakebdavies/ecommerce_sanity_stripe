@@ -1,3 +1,16 @@
+<p>
+  <a target="_blank" rel="noopener noreferrer" href="https://ecommerce-kp4gzm93q-blakebdavies.vercel.app/">Click here for live demo</a>
+</p>                                                                                              
+ <h2>eCommerce Website using Sanity with Stripe integration</h2>
+ <p> This is a Nextjs project that explores modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and most importantly, the complete integration with Stripe so that you can cover real payments.</p>
+ <h2> Technology and Concepts</h2>
+ <ul>
+  <li>Sanity CMS to manage content of application</li>
+  <li>React Context API for Advanced State Management, React Hooks and React Refs</li>
+  <li>Nextjs for File-based Routing, data fetching for SSR and Static Generation for optimization</li>
+  <li>Stripe API integration to handle payments, products, shipping rates and checkouts</li>
+  </ul>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +45,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
